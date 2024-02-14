@@ -1,0 +1,39 @@
+<!DOCTYPE html>  
+
+<html>  
+   <head> 
+      <meta charset = "utf-8"> 
+      <title>Speedstar Motors</title> 
+   </head> 
+  
+   <body> 
+      <header role = "banner"> 
+         <h1>SpeedStar Motors</h1> 
+         <p>This page contains links to other car websites</p> 
+      </header> 
+   
+      <nav> 
+         <ul> 
+            <li><a href = "https://www.bmw.com/en/index.html">BMW</a></li> 
+            <li><a href = "https://www.mercedes-benz.com/en/">Mercedes</a></li> 
+            <li><a href = "https://www.lexus.com">
+            Lexus</a></li> 
+         </ul> 
+      </nav> 
+   
+      <article> 
+         <section> 
+            <p>Once article can have multiple sections</p>
+         </section> 
+      </article> 
+   
+      <aside> 
+         <p>This is  aside part of the web page</p> 
+      </aside> 
+   
+      <footer> 
+         <p>Created by <a href = "https://tutorialspoint.com/">Phila</a></p> 
+      </footer> 
+   
+   </body> 
+</html>
